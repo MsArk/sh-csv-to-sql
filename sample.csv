@@ -1,0 +1,6 @@
+email,result,free,role,result1,free1,role1
+a@a,catch_all,no,yes,catch_all,no,yes
+b@b,ok,no,yes,ok,no,yes
+c@c,ok,no,no,ok,no,no
+d@d,ok,yes,no,ok,yes,no
+e@e,catch_all,no,yes,catch_all,no,yes
